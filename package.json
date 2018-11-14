@@ -10,10 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commit-to-github": "^0.2.3",
     "dotenv": "^6.0.0",
     "file-url": "^2.0.2",
-    "https-proxy-agent": "^2.2.1"
+    "github-api": "^3.0.0",
+    "https-proxy-agent": "^2.2.1",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "eslint": "^5.0.0",
